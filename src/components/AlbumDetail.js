@@ -53,7 +53,8 @@ const styles = {
   },
   imageContainer: {
     height: 300,
-    flex: 1
+    flex: 1,
+    width: null
   }
 }
 
